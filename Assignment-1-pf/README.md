@@ -3,8 +3,8 @@
 This repository contains the C++ source code solutions for Assignment 1 of the Programming Fundamentals course. 
 
 ## Author Details
-* **Author:** Amaz Majeed
-* **Roll Number:** 048
+* **Author:** Muhammad Ibrahim
+* **Roll Number:** 023
 * **Class Section:** SE-2A
 * **Institution:** Superior University (BSSE)
 
