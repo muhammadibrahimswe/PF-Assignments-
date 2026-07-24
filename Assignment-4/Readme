@@ -1,14 +1,22 @@
-Programming Fundamentals – Assignment 3
-Author Details
-Author: Muhammad Ibrahim
-Roll Number: 023
-Class Section: SE-2A
-Instructor: Umar Khalil Course: Programming Fundamentals Language: C++
-Institution: Superior University (BSSE)
+# Programming Fundamentals – Assignment 3
+
+## Author Details
+* **Author:** Muhammad Ibrahim  
+* **Roll Number:** 023  
+* **Class Section:** SE-2A  
+* **Instructor:** Umar Khalil  
+* **Course:** Programming Fundamentals  
+* **Language:** C++  
+* **Institution:** Superior University (BSSE)
+
+---
 
 This repository contains all C++ programs written for Assignment 3 (Parts 1–4) and the accompanying theory practice programs, organized into a single, compilable project.
 
-📁 Repository Structure
+---
+
+## 📁 Repository Structure
+
 
 Assignment-3/
 ├── Part-1/                         # Assignment 3 – Part 1 (functions, arrays, strings)
