@@ -7,8 +7,6 @@
 * **Instructor:** Umar Khalil  
 * **Course:** Programming Fundamentals  
 * **Language:** C++  
-* **Institution:** Superior University (BSSE)
-
 ---
 
 This repository contains all C++ programs written for Assignment 3 (Parts 1–4) and the accompanying theory practice programs, organized into a single, compilable project.
