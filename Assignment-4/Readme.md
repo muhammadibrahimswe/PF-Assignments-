@@ -14,10 +14,9 @@
 This repository contains all C++ programs written for Assignment 3 (Parts 1–4) and the accompanying theory practice programs, organized into a single, compilable project.
 
 ---
-
 ## 📁 Repository Structure
 
-
+```text
 Assignment-3/
 ├── Part-1/                         # Assignment 3 – Part 1 (functions, arrays, strings)
 │   ├── 01_average_array.cpp
@@ -46,4 +45,5 @@ Assignment-3/
 │   ├── 03_area_calculator.cpp
 │   ├── 04_bowling_average.cpp
 │   ├── 05_vertical_word_printer.cpp
-└── └── 06_reverse_word.cpp 
+│   └── 06_reverse_word.cpp
+```
